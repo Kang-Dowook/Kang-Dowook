@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </p>
 
-<h3 align=center>peace</h3>
+<h3 align=center>Web Developer</h3>
 <h1 align=center>Kang-Dowook:fire:</h1>
 
 <p align=center>
