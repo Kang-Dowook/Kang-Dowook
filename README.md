@@ -38,6 +38,6 @@
 
 <h2 align=center>Contacts :sparkles:</h2>
 <div align=center>
-  <a href="https://www.instagram.com/petros_do/"><img src="https://img.shields.io/badge/@pertros_do-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/></a>
+  <a href="https://www.instagram.com/petros_do/"><img src="https://img.shields.io/badge/@pertros__do-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="28px"/></a>
   <a href="mailto:dev.rayoojin@gmail.com"><img src="https://img.shields.io/badge/dev.rayoojin@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
