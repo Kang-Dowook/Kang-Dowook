@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </p>
 
-<h3 align=center>Positive & Passionate</h3>
-<h1 align=center>I'm YooJin Ra</h1>
+<h3 align=center>peace</h3>
+<h1 align=center>Kang-Dowook</h1>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kang-Dowook&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
